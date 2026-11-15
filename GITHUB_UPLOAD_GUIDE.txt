@@ -1,0 +1,11 @@
+WASHWISE AI - GITHUB FILE UPLOAD
+
+1. Extract this ZIP.
+2. Open the WashWiseAI_RealBusiness folder.
+3. On GitHub, open your WashWiseAI repository.
+4. Choose Add file > Upload files.
+5. Drag the CONTENTS of this folder (including .streamlit and tests) into the upload area.
+6. Do NOT upload .streamlit/secrets.toml. Only secrets.toml.example is included.
+7. Commit changes.
+
+Never publish your Supabase secret key, Gemini key, or real customer information.
